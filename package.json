@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "name": "tspractice",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
